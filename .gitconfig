@@ -1,0 +1,13 @@
+[user]
+	name = Maria Bogaerts Marquez
+	email = m.bogaerts.marquez@gmail.com
+[merge]
+	ff = false
+[branch]
+	autosetuprebase = always
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore_global
+[status]
+	submoduleSummary = true
